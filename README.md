@@ -2,9 +2,11 @@ Hi, I’m @Cornelius-Wang
 
 I’m interested in technology that enables developers to create and automate experiences for end-users.
 
-- 🌱 I’m currently learning Java/Vue/Swift
+I advise and collaborate on Seed / Pre-seed ideas, with an emphasis in cannabis supply-chain projects. Mainly through the Founder Institute San Francisco chapter.
 
-I’m looking to collaborate on Seed / Pre-seed ideas, with an emphasis in cannabis supply-chain projects.
+- 🌱 I’m currently learning Vue/Swift, familiar with JS/React/Java/SQL
+
+- ☁ familiar with Digital Ocean, GCP, AWS.
 
 - 📫  @ cory.wang11@gmail.com
 
