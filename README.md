@@ -4,7 +4,7 @@ I’m interested in technology that enables developers to create and automate ex
 
 I advise and collaborate on Seed / Pre-seed ideas, with an emphasis in cannabis supply-chain projects. Mainly through the Founder Institute San Francisco chapter.
 
-- 🌱 I’m currently learning Vue/Swift, familiar with JS/React/Java/SQL
+- 🌱 I’m currently learning Vue/Swift, familiar with JS/React/Java/SQL/Node
 
 - ☁ familiar with Digital Ocean, GCP, AWS.
 
